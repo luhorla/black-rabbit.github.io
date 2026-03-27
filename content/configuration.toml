@@ -1,0 +1,56 @@
+# Due to how Astro handles type inference with this structure,
+# we need to prefix all configuration keys with an underscore.
+
+[_.site]
+baseUrl = "http://zaggonaut.dev"
+
+[_.globalMeta]
+title = "Black Rabbit"
+description = "**epistêmê**＆**technê**"
+longDescription = "The world belongs to Caesar, the girl belongs to the boy."
+cardImage = "/images/avatar.jpg"
+keywords = ["blog", "project", "myself"]
+
+[_.blogMeta]
+title = "Black Rabbit Blog"
+description = "Practical wisdom, unfiltered thoughts, and hot takes."
+longDescription = "These are my limitations and shallowness, but they are also my sincerity."
+cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+keywords = ["body building", "zen", "technology","economics"]
+
+[_.projectMeta]
+title = "Zaggonaut Projects"
+description = "Such great luck!"
+longDescription = "On the shallow rapids of time, I won't be able to care in the next life either."
+cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+keywords = ["Embedded System", "Circuit Design", "CV"]
+
+[_.notFoundMeta]
+title = "Your destination was eaten by Black Rabbit."
+description = "Burp!!!!!!!!"
+longDescription = "I'm sorry~"
+cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+
+[_.hero]
+title = "Black Rabbit"
+subtitle = "天地本宽而鄙者自隘。"
+image = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+ctaText = "View Projects"
+ctaUrl = "/projects"
+
+[_.personal]
+name = "Brabbit"
+githubProfile = "https://github.com/luhorla"
+twitterProfile = "https://twitter.com"
+
+[_.texts]
+articlesName = "浅斟低唱"
+projectsName = "木牛流马"
+viewAll = "到处瞅两眼"
+noArticles = "还没写"
+noProjects = "还没做"
+
+[_.menu]
+home = "/"
+projects = "/projects"
+blog = "/blog"
