@@ -2,39 +2,39 @@
 # we need to prefix all configuration keys with an underscore.
 
 [_.site]
-baseUrl = "http://zaggonaut.dev"
+baseUrl = "http://balck-rabbit.github.io"
 
 [_.globalMeta]
 title = "Black Rabbit"
 description = "**epistêmê**＆**technê**"
 longDescription = "The world belongs to Caesar, the girl belongs to the boy."
-cardImage = "/images/avatar.jpg"
+cardImage = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
 keywords = ["blog", "project", "myself"]
 
 [_.blogMeta]
 title = "Black Rabbit Blog"
 description = "Practical wisdom, unfiltered thoughts, and hot takes."
 longDescription = "These are my limitations and shallowness, but they are also my sincerity."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
 keywords = ["body building", "zen", "technology","economics"]
 
 [_.projectMeta]
 title = "Zaggonaut Projects"
 description = "Such great luck!"
 longDescription = "On the shallow rapids of time, I won't be able to care in the next life either."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
 keywords = ["Embedded System", "Circuit Design", "CV"]
 
 [_.notFoundMeta]
 title = "Your destination was eaten by Black Rabbit."
 description = "Burp!!!!!!!!"
 longDescription = "I'm sorry~"
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
 
 [_.hero]
 title = "Black Rabbit"
 subtitle = "天地本宽而鄙者自隘。"
-image = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+image = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
 ctaText = "View Projects"
 ctaUrl = "/projects"
 
