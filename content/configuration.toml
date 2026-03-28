@@ -2,7 +2,7 @@
 # we need to prefix all configuration keys with an underscore.
 
 [_.site]
-baseUrl = "http://balck-rabbit.github.io"
+baseUrl = "https://black-rabbit-github-io.pages.dev"
 
 [_.globalMeta]
 title = "Black Rabbit"
