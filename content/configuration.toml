@@ -8,39 +8,39 @@ baseUrl = "http://balck-rabbit.github.io"
 title = "Black Rabbit"
 description = "**epistêmê**＆**technê**"
 longDescription = "The world belongs to Caesar, the girl belongs to the boy."
-cardImage = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
+cardImage = "https://cdn.jsdelivr.net/gh/Black-Rabb1T/black-rabbit.github.io@main/img/avatar.jpg"
 keywords = ["blog", "project", "myself"]
 
 [_.blogMeta]
 title = "Black Rabbit Blog"
 description = "Practical wisdom, unfiltered thoughts, and hot takes."
 longDescription = "These are my limitations and shallowness, but they are also my sincerity."
-cardImage = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
+cardImage = "https://cdn.jsdelivr.net/gh/Black-Rabb1T/black-rabbit.github.io@main/img/avatar.jpg"
 keywords = ["body building", "zen", "technology","economics"]
 
 [_.projectMeta]
 title = "Zaggonaut Projects"
 description = "Such great luck!"
 longDescription = "On the shallow rapids of time, I won't be able to care in the next life either."
-cardImage = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
+cardImage = "https://cdn.jsdelivr.net/gh/Black-Rabb1T/black-rabbit.github.io@main/img/avatar.jpg"
 keywords = ["Embedded System", "Circuit Design", "CV"]
 
 [_.notFoundMeta]
 title = "Your destination was eaten by Black Rabbit."
 description = "Burp!!!!!!!!"
 longDescription = "I'm sorry~"
-cardImage = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
+cardImage = "https://cdn.jsdelivr.net/gh/Black-Rabb1T/black-rabbit.github.io@main/img/avatar.jpg"
 
 [_.hero]
 title = "Black Rabbit"
 subtitle = "天地本宽而鄙者自隘。"
-image = "https://cdn.jsdelivr.net/gh/luhorla/black-rabbit.github.io@main/img/avatar.jpg"
+image = "https://cdn.jsdelivr.net/gh/Black-Rabb1T/black-rabbit.github.io@main/img/avatar.jpg"
 ctaText = "View Projects"
 ctaUrl = "/projects"
 
 [_.personal]
 name = "Brabbit"
-githubProfile = "https://github.com/luhorla"
+githubProfile = "https://github.com/Black-Rabb1T"
 twitterProfile = "https://twitter.com"
 
 [_.texts]
