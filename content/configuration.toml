@@ -44,9 +44,9 @@ githubProfile = "https://github.com/luhorla"
 twitterProfile = "https://twitter.com"
 
 [_.texts]
-articlesName = "浅斟低唱"
-projectsName = "木牛流马"
-viewAll = "到处瞅两眼"
+articlesName = "博客"
+projectsName = "项目"
+viewAll = "一睹究竟"
 noArticles = "还没写"
 noProjects = "还没做"
 
